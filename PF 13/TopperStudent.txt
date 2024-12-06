@@ -1,0 +1,8 @@
+Name : john
+Admission Number : 675
+perentage : 98
+
+Name : mueeza
+Admission Number : 675
+perentage : 90
+
